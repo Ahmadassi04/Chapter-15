@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705405022 source:c:\users\hp\desktop\c++ challenge\chapter 15\question (15.7)\main.cpp
+	<chrono>
+	<random>
+	<iostream>
+
